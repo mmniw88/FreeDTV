@@ -1,52 +1,104 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "线路1",
+      "id": 19,
+      "name": "one蓝光",
       "ad": "no",
-      "url": "https://okjx.cc/?url="
+      "url": "https://js.onedianshi.com/dmplayer/?url="
     },
     {
-      "id": 1,
-      "name": "线路2",
+      "id": 19,
+      "name": "自定义2",
       "ad": "no",
-      "url": "http://jx.618ge.com/?url="
+      "url": "https://sb.5gseo.net/?url="
+{
+      "id": 19,
+      "name": "msdv",
+      "ad": "no",
+      "url": "https://www.msdv.cn/dplayer/?url="
     },
     {
-      "id": 1,
-      "name": "线路3",
+      "id": 19,
+      "name": "疯子云1",
       "ad": "no",
-      "url": "https://jx.618g.com/?url="
+      "url": "http://svipjx.ygx888.com/?url="
+{
+      "id": 19,
+      "name": "疯子云2",
+      "ad": "no",
+      "url": "http://ysc.ygx888.com/vipjx.php?url="
     },
     {
-      "id": 1,
-      "name": "线路4",
+      "id": 19,
+      "name": "自定义3",
       "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
+      "url": "http://jxjx.ygx888.com/dplayer/?url="
+{
+      "id": 19,
+      "name": "疯子云4",
+      "ad": "no",
+      "url": "http://fzjx.ygx888.com/api/?type=app&key=WXgWA2nfqpJNW06TTa&url="
     },
     {
-      "id": 1,
-      "name": "线路5",
+      "id": 19,
+      "name": "人人迷",
       "ad": "no",
-      "url": "https://api.10dy.net/?url="
+      "url": "https://jx.renrenmi.cc/?url="
+{
+      "id": 19,
+      "name": "牛逼",
+      "ad": "no",
+      "url": "https://nbjx.vip/?url="
     },
     {
-      "id": 1,
-      "name": "线路6",
+      "id": 19,
+      "name": "云乐播",
       "ad": "no",
-      "url": "https://jx.elwtc.com/vip/?url="
+      "url": "https://ldy.jx.cn/wp-api/ifr.php?vid="
+{
+      "id": 19,
+      "name": "满嘟嘟",
+      "ad": "no",
+      "url": "https://jhpc.manduhu.com/?url="
     },
     {
-      "id": 1,
-      "name": "线路7",
+      "id": 19,
+      "name": "dd520",
       "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
+      "url": "https://dp.dd520.cc/p.php?url="
+{
+      "id": 19,
+      "name": "亅X4K",
+      "ad": "no",
+      "url": "http://www.jx4k.com/k.php?url="
     },
     {
-      "id": 1,
-      "name": "线路8",
+      "id": 19,
+      "name": "x-n",
       "ad": "no",
-      "url": "https://jx.000180.top/jx/?url="
+      "url": "https://www.x-n.cc/api.php?url="
+{
+      "id": 19,
+      "name": "夜雾",
+      "ad": "no",
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "id": 19,
+      "name": "xmflv",
+      "ad": "no",
+      "url": "https://jx.xmflv.com/?url="
+{
+      "id": 19,
+      "name": "jX4K",
+      "ad": "no",
+      "url": "https://vip.jx4k.com/vip/?url="
+    },
+    {
+      "id": 19,
+      "name": "OK",
+      "ad": "no",
+      "url": "https://api.okjx.cc:3389/jx.php?url="
     }
   ]
 }
